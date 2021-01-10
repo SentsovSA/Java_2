@@ -31,7 +31,6 @@ public class HW3 {
         phonebook.add("Водочкин", "89995656565");
         phonebook.add("Закускин", "83633734895");
         phonebook.add("Водочкин", "88003551298");
-        phonebook.add("Пивоваров", "89008887643");
 
         System.out.println("Номера по запросу <<Водочкин>> : " + phonebook.get("Водочкин"));
         System.out.println("Номера по запросу <<Коньяков>> : " + phonebook.get("Коньяков"));
