@@ -4,7 +4,6 @@ import javax.swing.*;
 
 public class HW2 {
     public static void main(String[] args) {
-        HW2 main = new HW2();
         String[][] arr1 = {
                 {"5", "3", "2", "1"},
                 {"12", "Index", "8", "7"},
